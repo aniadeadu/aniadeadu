@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hello there! 👋 I'm Anike, a junior frontend developer passionate about crafting delightful and interactive user experiences. Welcome to my GitHub portfolio!
+
+## About Me
+
+- 🌍 Location: Lagos, Nigieria
+- 📧 Email: aniadeadu@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/anike-ekanola-9aa5482a0
+
 
 <!--
 **aniadeadu/aniadeadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
