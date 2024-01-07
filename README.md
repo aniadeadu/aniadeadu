@@ -21,12 +21,12 @@
 ### 1. Niann - React.js (https://github.com/aniadeadu/niann)
 
 - **Description:** A fashion ecommerce that features seamless payment system (PayStack), firebase google user authentication and hosting services. •	The project demonstrates my ability to create robust, scalable, and user-centric web applications with a keen focus on delivering a seamless eCommerce experience.
-- **Live Demo:** [Live Demo].(https://niann-61538.web.app/)
+- **Live Demo:** [Niann Demo].(https://niann-61538.web.app/)
 
 ### 2. Envoy - React.js (https://github.com/aniadeadu/envoy)
 
 - **Description:** This project, harmonizing React, TypeScript, and Firebase, exemplifies my proficiency in creating dynamic and secure web applications with a focus on real-time communication and robust backend integration.
-- **Live Demo:** [Live Demo](https://envoy-14bad.web.app/)
+- **Live Demo:** [Envoy Demo].(https://envoy-14bad.web.app/)
 
   # 📬 Contact
 
