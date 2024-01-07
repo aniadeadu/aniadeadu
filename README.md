@@ -1,12 +1,12 @@
 ## Hello there! 👋 I'm Anike, a junior frontend developer passionate about crafting delightful and interactive user experiences. Welcome to my GitHub portfolio!
 
-## About Me
+## 🌍 About Me
 
 - 🌍 Location: Lagos, Nigieria
 - 📧 Email: aniadeadu@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/anike-ekanola-9aa5482a0
 
-## Skills
+## 💡 Skills
 
 - **Languages:** HTML, CSS, JavaScript, TypeScript
 - **Frontend Frameworks:** React.js
@@ -16,17 +16,25 @@
 - **Testing:** Jest
 - **Other:** RESTful APIs, AJAX, JSON, npm
 
-## Projects
+## 🚀 Projects
 
-### 1. [Niann - React.js].(https://github.com/aniadeadu/niann)
+### 1. Niann - React.js (https://github.com/aniadeadu/niann)
 
-- **Description:** A fashion ecommerce that features seamless payment system (PayStack), firebase google user authentication and hosting services.
-- **Live Demo:** [Live Dem0].(https://niann-61538.web.app/)
+- **Description:** A fashion ecommerce that features seamless payment system (PayStack), firebase google user authentication and hosting services. •	The project demonstrates my ability to create robust, scalable, and user-centric web applications with a keen focus on delivering a seamless eCommerce experience.
+- **Live Demo:** [Live Demo].(https://niann-61538.web.app/)
 
-### 2. [Envoy](https://github.com/aniadeadu/envoy)
+### 2. Envoy - React.js (https://github.com/aniadeadu/envoy)
 
-- **Description:** My personal portfolio showcasing projects, skills, and contact information. Built with HTML, CSS, and JavaScript.
-- **Live Demo:** [Portfolio Demo](https://www.yourportfolio.com)
+- **Description:** This project, harmonizing React, TypeScript, and Firebase, exemplifies my proficiency in creating dynamic and secure web applications with a focus on real-time communication and robust backend integration.
+- **Live Demo:** [Live Demo](https://envoy-14bad.web.app/)
+
+  # 📬 Contact
+
+Feel free to reach out via email at aniadeadu@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/anike-ekanola-9aa5482a0)). I'm open to collaborations and always eager to learn and contribute.
+
+---
+
+Thanks for checking out my GitHub! Let's build something awesome together! 🚀
 
 
 
