@@ -1,5 +1,3 @@
-<img align="right" src="https://blogs.nottingham.ac.uk/careers/files/2018/01/iStock-629285904-e1515424561997.jpg" alt="animated gif of a girl" width="100%" height="300"/>
-
 
 <h1 align="center">Hi 👋, I'm Anike Ekanola</h1>
 <h3 align="center" style="color:powderblue">I am a junior frontend developer passionate about crafting delightful and interactive user experiences.</h3>
@@ -51,9 +49,9 @@
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniadeadu&show_icons=true&locale=en&layout=compact&bg_color=30,00000000,f8d8dc&title_color=fff&text_color=fff&hide_border=true" alt="aniadeadu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniadeadu&show_icons=true&locale=en&layout=compact&bg_color=30,00000000,0D98BA,f8d8dc&title_color=fff&text_color=fff&hide_border=true" alt="aniadeadu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniadeadu&show_icons=true&locale=en&bg_color=30,00000000,f8d8dc&title_color=fff&text_color=fff&hide_border=true"" alt="aniadeadu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniadeadu&show_icons=true&locale=en&bg_color=30,f8d8dc,0D98BA,00000000&title_color=fff&text_color=fff&hide_border=true"" alt="aniadeadu" /></p>
 
 
 
