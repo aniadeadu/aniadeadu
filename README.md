@@ -1,4 +1,4 @@
-<img align="right" src="https://static.vecteezy.com/system/resources/previews/001/410/877/non_2x/programming-and-coding-futuristic-banner-vector.jpg" alt="animated gif of a girl" width="100%" height="300"/>
+<img align="right" src="https://blogs.nottingham.ac.uk/careers/files/2018/01/iStock-629285904-e1515424561997.jpg" alt="animated gif of a girl" width="100%" height="300"/>
 
 
 <h1 align="center">Hi 👋, I'm Anike Ekanola</h1>
