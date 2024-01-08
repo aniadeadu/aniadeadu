@@ -1,4 +1,4 @@
-<img align="right" src="https://www.computersciencedegreehub.com/wp-content/uploads/2023/02/shutterstock_535124956-scaled.jpg" alt="animated gif of a girl" width="100%"/>
+<img align="right" src="https://static.vecteezy.com/system/resources/previews/001/410/877/non_2x/programming-and-coding-futuristic-banner-vector.jpg" alt="animated gif of a girl" width="100%" height="400"/>
 
 
 <h1 align="center">Hi 👋, I'm Anike Ekanola</h1>
