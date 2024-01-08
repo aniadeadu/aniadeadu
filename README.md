@@ -1,18 +1,44 @@
 <h1 align="center">Hi 👋, I'm Anike Ekanola</h1>
-<h3 align="center" style="background-color:powderblue;">I am junior frontend developer passionate about crafting delightful and interactive user experiences.</h3>
+<h3 align="center" style="color:powderblue">I am a junior frontend developer passionate about crafting delightful and interactive user experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniadeadu&label=Profile%20views&color=0e75b6&style=flat" alt="aniadeadu" /> </p>
 <img align="right" src="https://media1.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" alt="animated gif of a girl" width="350"/>
 
 - 🌱 I’m currently learning **Next JS, Backend**
+ 
+- 👯 I’m looking to collaborate on **projects**
 
 - 👨‍💻 All of my projects are available at [github/aniadeadu](github/aniadeadu)
 
-- 💬 Ask me about **React, JavaScript, TypeScript**
+- 💬 Ask me about **React, JavaScript, TypeScript, Firebase**
 
 - 📫 How to reach me **aniadeadu@gmail.com**
 
-- ⚡ Fun fact **Sometimes I may cry when I get frustrated with my code but I don't ever backdown. If programming want to go heads on with me, I must emerge the victor.**
+- ⚡ Fun fact **Sometimes I may cry when I get frustrated with my code but I don't ever backdown. If programming want to go heads on with me, I <b>must</b> emerge the victor :)**
+
+<h4 align="left" style="background-color:powderblue;">## 🚀 Projects</h4>
+
+### 1. Niann - React.js (https://github.com/aniadeadu/niann)
+
+- **Description:** A fashion ecommerce that features seamless payment system (PayStack), firebase google user authentication and hosting services. The project demonstrates my ability to create robust, scalable, and user-centric web applications with a keen focus on delivering a seamless eCommerce experience.
+- **Live Demo:** [Niann Demo].(https://niann-61538.web.app/)
+
+### 2. Envoy - React.js (https://github.com/aniadeadu/envoy)
+
+- **Description:** This project, harmonizing React, TypeScript, and Firebase, exemplifies my proficiency in creating dynamic and secure web applications with a focus on real-time communication and robust backend integration.
+- **Live Demo:** [Envoy Demo].(https://envoy-14bad.web.app/)
+
+### 3. FinSyt - React.js (https://github.com/aniadeadu/finsyt)
+
+  <h4 align="left" style="background-color:powderblue;">## 💡 Skills</h4>
+  
+- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Frontend Frameworks:** React.js
+- **Version Control:** Git, GitHub
+- **Responsive Design:** Tailwind CSS, CSS Grid, Flexbox
+- **Build Tools:** Webpack
+- **Testing:** Jest
+- **Other:** RESTful APIs, AJAX, JSON, npm.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,44 +54,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniadeadu&" alt="aniadeadu" /></p>
 
-
-
-
-## Hello there! 👋 I'm Anike, a junior frontend developer passionate about crafting delightful and interactive user experiences. Welcome to my GitHub portfolio!
-
-## 🌍 About Me
-
-- 🌍 Location: Lagos, Nigieria
-- 📧 Email: aniadeadu@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/anike-ekanola-9aa5482a0
-
-## 💡 Skills
-
-- **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frontend Frameworks:** React.js
-- **Version Control:** Git, GitHub
-- **Responsive Design:** Tailwind CSS, CSS Grid, Flexbox
-- **Build Tools:** Webpack
-- **Testing:** Jest
-- **Other:** RESTful APIs, AJAX, JSON, npm
-
-## 🚀 Projects
-
-### 1. Niann - React.js (https://github.com/aniadeadu/niann)
-
-- **Description:** A fashion ecommerce that features seamless payment system (PayStack), firebase google user authentication and hosting services. •	The project demonstrates my ability to create robust, scalable, and user-centric web applications with a keen focus on delivering a seamless eCommerce experience.
-- **Live Demo:** [Niann Demo].(https://niann-61538.web.app/)
-
-### 2. Envoy - React.js (https://github.com/aniadeadu/envoy)
-
-- **Description:** This project, harmonizing React, TypeScript, and Firebase, exemplifies my proficiency in creating dynamic and secure web applications with a focus on real-time communication and robust backend integration.
-- **Live Demo:** [Envoy Demo].(https://envoy-14bad.web.app/)
-
-  # 📬 Contact
-
-Feel free to reach out via email at aniadeadu@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/anike-ekanola-9aa5482a0)). I'm open to collaborations and always eager to learn and contribute.
-
----
 
 Thanks for checking out my GitHub! Let's build something awesome together! 🚀
 
