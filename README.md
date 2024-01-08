@@ -1,8 +1,10 @@
+<img align="right" src="https://www.computersciencedegreehub.com/wp-content/uploads/2023/02/shutterstock_535124956-scaled.jpg" alt="animated gif of a girl" width="100%"/>
+
+
 <h1 align="center">Hi 👋, I'm Anike Ekanola</h1>
 <h3 align="center" style="color:powderblue">I am a junior frontend developer passionate about crafting delightful and interactive user experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniadeadu&label=Profile%20views&color=0e75b6&style=flat" alt="aniadeadu" /> </p>
-<img align="right" src="https://media1.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" alt="animated gif of a girl" width="350"/>
 
 - 🌱 I’m currently learning **Next JS, Backend**
  
